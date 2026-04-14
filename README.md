@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 Your sheet URL looks like:
 ```
-https://docs.google.com/spreadsheets/d/  1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms  /edit
+https://docs.google.com/spreadsheets/d/   /edit
 ```
 The long string in the middle is your `GOOGLE_SHEET_ID`.
 
